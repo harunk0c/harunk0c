@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="404" height="94" viewBox="0 0 404 94" role="img" aria-label="linkedin: linkedin.com/in/harunyahyakoc" xml:space="preserve">
+  <style>text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; white-space: pre; }</style>
+  <rect x="0.5" y="0.5" width="403" height="93" rx="10" fill="#0b0f14" stroke="#30363d"/>
+  <path d="M10.5 0.5h383a10 10 0 0 1 10 10v21.5h-403v-21.5a10 10 0 0 1 10-10z" fill="#161b22"/>
+  <line x1="0.5" y1="32" x2="403.5" y2="32" stroke="#30363d"/>
+  <circle cx="20" cy="16.5" r="5.5" fill="#ff5f57"/><circle cx="38" cy="16.5" r="5.5" fill="#febc2e"/><circle cx="56" cy="16.5" r="5.5" fill="#28c840"/>
+  <text x="78" y="21" font-size="12" fill="#8b949e">linkedin</text>
+  <text x="24" y="70" font-size="14"><tspan fill="#3fb950">$ </tspan><tspan fill="#8b949e">open </tspan><tspan fill="#4493f8">linkedin.com/in/harunyahyakoc</tspan></text>
+</svg>
