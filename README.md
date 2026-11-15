@@ -34,4 +34,6 @@
   <a href="https://www.linkedin.com/in/harunyahyakoc"><img src="./assets/contact-linkedin.svg" alt="LinkedIn: linkedin.com/in/harunyahyakoc" width="49%"></a>
 </p>
 
-<p align="center"><sub><code>exit 0</code></sub></p>
+<p align="center">
+  <img src="./assets/footer.svg" alt="$ exit — thanks for stopping by" width="100%">
+</p>

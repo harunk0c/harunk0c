@@ -154,5 +154,16 @@ def contact():
         write(fname, window(404, 94, title, body, f"{title}: {text}"))
 
 
+# ---------- footer ----------
+def footer():
+    body = "\n  ".join([
+        line(24, 62, [seg("harun@github", "green"), seg(":"), seg("~", "blue"), seg("$ exit")]),
+        line(24, 86, [seg("logout", "dim"), seg("  ·  ", "faint"), seg("thanks for stopping by", "dim"),
+                      seg("  ·  ", "faint"), seg("[process completed with exit code ", "faint"),
+                      seg("0", "green", True), seg("]", "faint")], 13),
+    ])
+    write("footer.svg", window(820, 104, "harun@github: ~", body, "exit: thanks for stopping by"))
+
+
 if __name__ == "__main__":
-    about(); stack(); projects(); gitlog(); contact()
+    about(); stack(); projects(); gitlog(); contact(); footer()
