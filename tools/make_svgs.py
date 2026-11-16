@@ -58,15 +58,16 @@ def about():
         [seg("const ", "kw"), seg("harun", "blue"), seg(" = {")],
         [k("role", 8), seg('"EEE student @ Karadeniz Technical University"', "str"), seg(",")],
         [k("year", 8), seg("3", "num"), seg(",")],
-        [k("focus", 7), seg("["), seg('"robotics"', "str"), seg(", "), seg('"embedded"', "str"), seg(", "),
-         seg('"digital design"', "str"), seg(", "), seg('"automation"', "str"), seg("],")],
+        [k("focus", 7), seg("["), seg('"automation"', "str"), seg(", "), seg('"web scraping"', "str"), seg(", "),
+         seg('"bots"', "str"), seg(", "), seg('"data pipelines"', "str"), seg(", "), seg('"robotics"', "str"),
+         seg("],")],
         [k("drawnTo", 5), seg('"exploration & automation problems"', "str"), seg(",")],
         [seg("};")],
     ]
     body = "\n  ".join(line(24, 62 + i * 24, r) for i, r in enumerate(rows))
     h = 62 + len(rows) * 24
     write("about.svg", window(820, h, "harun.js", body,
-          "harun: EEE student at Karadeniz Technical University, 3rd year; focus: robotics, embedded, digital design, automation"))
+          "harun: EEE student at Karadeniz Technical University, 3rd year; focus: automation, web scraping, bots, data pipelines, robotics"))
 
 
 # ---------- stack ----------
@@ -76,12 +77,11 @@ STACK = [
     ("automation", [("Web scraping", "#8b949e"), ("Playwright", "#2ead33"), ("Selenium", "#43b02a"),
                     ("BeautifulSoup", "#ffd343"), ("Telegram bots", "#26a5e4"), ("REST APIs", "#3fb950"),
                     ("LLM APIs", "#d97757")]),
-    ("data", [("pandas", "#e70488"), ("NumPy", "#4dabcf"), ("SQL", "#e38c00"), ("Excel", "#217346"),
+    ("data", [("pandas", "#e70488"), ("SQL", "#e38c00"), ("Excel", "#217346"),
               ("Google Sheets API", "#0f9d58")]),
     ("robotics", [("ROS 2", "#6b8dd6"), ("Gazebo", "#f58113"), ("RViz", "#a371f7")]),
-    ("tools", [("Linux", "#fcc624"), ("Bash", "#89e051"), ("Git", "#f05032"), ("GitHub", "#e6edf3"),
-               ("Docker", "#2496ed"), ("VS Code", "#3fa7e8"), ("SQLite", "#0f80cc"), ("Postman", "#ff6c37"),
-               ("pytest", "#0a9edc")]),
+    ("tools", [("Linux", "#fcc624"), ("Bash", "#89e051"), ("Git", "#f05032"), ("Docker", "#2496ed"),
+               ("VS Code", "#3fa7e8"), ("pytest", "#0a9edc")]),
 ]
 
 

@@ -1,15 +1,15 @@
 <!-- Section images live in ./assets. To change them, edit tools/make_svgs.py and run: python3 tools/make_svgs.py -->
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="$ whoami → Harun Yahya Koç · Automation & Embedded Systems Engineer · Trabzon, TR. I build systems from the smallest parts up: from digital logic in Verilog to autonomous drones in ROS 2, and the Python tools that automate the boring bits." width="100%">
+  <img src="./assets/terminal.svg" alt="$ whoami → Harun Yahya Koç · Automation Developer · Python · Trabzon, TR. I build tools that do the boring work for you: web scrapers, Telegram bots and data pipelines in Python, with a robotics background from autonomous drones." width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" alt="EEE student at Karadeniz Technical University, 3rd year. Focus: robotics, embedded, digital design, automation." width="100%">
+  <img src="./assets/about.svg" alt="EEE student at Karadeniz Technical University, 3rd year. Focus: automation, web scraping, bots, data pipelines, robotics." width="100%">
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Stack: Python, Rust, C, C++, Verilog, MATLAB; web scraping, Playwright, Selenium, BeautifulSoup, Telegram bots, REST APIs, LLM APIs; pandas, NumPy, SQL, Excel, Google Sheets API; ROS 2, Gazebo, RViz; Linux, Bash, Git, GitHub, Docker, VS Code, SQLite, Postman, pytest" width="100%">
+  <img src="./assets/stack.svg" alt="Stack: Python, Rust, C, C++, Verilog, MATLAB; web scraping, Playwright, Selenium, BeautifulSoup, Telegram bots, REST APIs, LLM APIs; pandas, SQL, Excel, Google Sheets API; ROS 2, Gazebo, RViz; Linux, Bash, Git, Docker, VS Code, pytest" width="100%">
 </p>
 
 <p align="center">
