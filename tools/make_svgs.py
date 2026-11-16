@@ -73,10 +73,15 @@ def about():
 STACK = [
     ("languages", [("Python", "#3572a5"), ("Rust", "#dea584"), ("C", "#555555"), ("C++", "#f34b7d"),
                    ("Verilog", "#b2b7f8"), ("MATLAB", "#e16737")]),
-    ("automation", [("Telegram bots", "#26a5e4"), ("Web scraping", "#8b949e"), ("REST APIs", "#3fb950")]),
+    ("automation", [("Web scraping", "#8b949e"), ("Playwright", "#2ead33"), ("Selenium", "#43b02a"),
+                    ("BeautifulSoup", "#ffd343"), ("Telegram bots", "#26a5e4"), ("REST APIs", "#3fb950"),
+                    ("LLM APIs", "#d97757")]),
+    ("data", [("pandas", "#e70488"), ("NumPy", "#4dabcf"), ("SQL", "#e38c00"), ("Excel", "#217346"),
+              ("Google Sheets API", "#0f9d58")]),
     ("robotics", [("ROS 2", "#6b8dd6"), ("Gazebo", "#f58113"), ("RViz", "#a371f7")]),
-    ("tools", [("Linux", "#fcc624"), ("Git", "#f05032"), ("GitHub", "#e6edf3"), ("Docker", "#2496ed"),
-               ("VS Code", "#3fa7e8"), ("SQLite", "#0f80cc")]),
+    ("tools", [("Linux", "#fcc624"), ("Bash", "#89e051"), ("Git", "#f05032"), ("GitHub", "#e6edf3"),
+               ("Docker", "#2496ed"), ("VS Code", "#3fa7e8"), ("SQLite", "#0f80cc"), ("Postman", "#ff6c37"),
+               ("pytest", "#0a9edc")]),
 ]
 
 
@@ -87,6 +92,9 @@ def stack():
         x = 190
         for name, dot in chips:
             w = len(name) * 7.8 + 34
+            if x + w > 772:  # wrap to a new line inside the same group
+                x = 190
+                y += 36
             parts.append(
                 f'<rect x="{x}" y="{y}" width="{w:.0f}" height="28" rx="6" fill="#161b22" stroke="#30363d"/>'
                 f'<circle cx="{x+14}" cy="{y+14}" r="4.5" fill="{dot}"/>'

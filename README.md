@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Stack: Python, Rust, C, C++, Verilog, MATLAB; Telegram bots, web scraping, REST APIs; ROS 2, Gazebo, RViz; Linux, Git, GitHub, Docker, VS Code, SQLite" width="100%">
+  <img src="./assets/stack.svg" alt="Stack: Python, Rust, C, C++, Verilog, MATLAB; web scraping, Playwright, Selenium, BeautifulSoup, Telegram bots, REST APIs, LLM APIs; pandas, NumPy, SQL, Excel, Google Sheets API; ROS 2, Gazebo, RViz; Linux, Bash, Git, GitHub, Docker, VS Code, SQLite, Postman, pytest" width="100%">
 </p>
 
 <p align="center">
