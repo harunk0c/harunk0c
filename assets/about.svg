@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-label="harun: EEE student at Karadeniz Technical University, 3rd year; focus: robotics, embedded, digital design, automation" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="206" viewBox="0 0 820 206" role="img" aria-label="harun: EEE student at Karadeniz Technical University, 3rd year; focus: robotics, embedded, digital design, automation" xml:space="preserve">
   <style>text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; white-space: pre; }</style>
-  <rect x="0.5" y="0.5" width="819" height="229" rx="10" fill="#0b0f14" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="819" height="205" rx="10" fill="#0b0f14" stroke="#30363d"/>
   <path d="M10.5 0.5h799a10 10 0 0 1 10 10v21.5h-819v-21.5a10 10 0 0 1 10-10z" fill="#161b22"/>
   <line x1="0.5" y1="32" x2="819.5" y2="32" stroke="#30363d"/>
   <circle cx="20" cy="16.5" r="5.5" fill="#ff5f57"/><circle cx="38" cy="16.5" r="5.5" fill="#febc2e"/><circle cx="56" cy="16.5" r="5.5" fill="#28c840"/>
@@ -9,7 +9,6 @@
   <text x="24" y="86" font-size="14"><tspan fill="#79c0ff">  role:        </tspan><tspan fill="#a5d6ff">"EEE student @ Karadeniz Technical University"</tspan><tspan fill="#e6edf3">,</tspan></text>
   <text x="24" y="110" font-size="14"><tspan fill="#79c0ff">  year:        </tspan><tspan fill="#ffa657">3</tspan><tspan fill="#e6edf3">,</tspan></text>
   <text x="24" y="134" font-size="14"><tspan fill="#79c0ff">  focus:       </tspan><tspan fill="#e6edf3">[</tspan><tspan fill="#a5d6ff">"robotics"</tspan><tspan fill="#e6edf3">, </tspan><tspan fill="#a5d6ff">"embedded"</tspan><tspan fill="#e6edf3">, </tspan><tspan fill="#a5d6ff">"digital design"</tspan><tspan fill="#e6edf3">, </tspan><tspan fill="#a5d6ff">"automation"</tspan><tspan fill="#e6edf3">],</tspan></text>
-  <text x="24" y="158" font-size="14"><tspan fill="#79c0ff">  buildingNow: </tspan><tspan fill="#a5d6ff">"price-tracker-bot"</tspan><tspan fill="#e6edf3">,</tspan></text>
-  <text x="24" y="182" font-size="14"><tspan fill="#79c0ff">  drawnTo:     </tspan><tspan fill="#a5d6ff">"exploration &amp; automation problems"</tspan><tspan fill="#e6edf3">,</tspan></text>
-  <text x="24" y="206" font-size="14"><tspan fill="#e6edf3">};</tspan></text>
+  <text x="24" y="158" font-size="14"><tspan fill="#79c0ff">  drawnTo:     </tspan><tspan fill="#a5d6ff">"exploration &amp; automation problems"</tspan><tspan fill="#e6edf3">,</tspan></text>
+  <text x="24" y="182" font-size="14"><tspan fill="#e6edf3">};</tspan></text>
 </svg>

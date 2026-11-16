@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="166" viewBox="0 0 820 166" role="img" aria-label="Timeline: price-tracker-bot, Telegram price alerts; Altair-Silent, drone flies through a window on its own; Altair-Observer, drone maps &amp; explores indoors without GPS; B.Sc. Electrical &amp; Electronics Eng. @ KTU" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="166" viewBox="0 0 820 166" role="img" aria-label="Timeline: price-tracker-bot, Shopify price &amp; stock alerts; Altair-Silent, drone flies through a window on its own; Altair-Observer, drone maps &amp; explores indoors without GPS; B.Sc. Electrical &amp; Electronics Eng. @ KTU" xml:space="preserve">
   <style>text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; white-space: pre; }</style>
   <rect x="0.5" y="0.5" width="819" height="165" rx="10" fill="#0b0f14" stroke="#30363d"/>
   <path d="M10.5 0.5h799a10 10 0 0 1 10 10v21.5h-819v-21.5a10 10 0 0 1 10-10z" fill="#161b22"/>
   <line x1="0.5" y1="32" x2="819.5" y2="32" stroke="#30363d"/>
   <circle cx="20" cy="16.5" r="5.5" fill="#ff5f57"/><circle cx="38" cy="16.5" r="5.5" fill="#febc2e"/><circle cx="56" cy="16.5" r="5.5" fill="#28c840"/>
   <text x="78" y="21" font-size="12" fill="#8b949e">git log --oneline</text>
-  <text x="24" y="62" font-size="14"><tspan fill="#e3b341">a1f3c9e</tspan><tspan fill="#3fb950"> (HEAD) </tspan><tspan fill="#d2a8ff">wip:  </tspan><tspan fill="#e6edf3">price-tracker-bot, Telegram price alerts</tspan></text>
+  <text x="24" y="62" font-size="14"><tspan fill="#e3b341">a1f3c9e</tspan><tspan fill="#3fb950"> (HEAD) </tspan><tspan fill="#d2a8ff">feat: </tspan><tspan fill="#e6edf3">price-tracker-bot, Shopify price &amp; stock alerts</tspan></text>
   <text x="24" y="88" font-size="14"><tspan fill="#e3b341">7d20b14</tspan><tspan fill="#3fb950">        </tspan><tspan fill="#d2a8ff">feat: </tspan><tspan fill="#e6edf3">Altair-Silent, drone flies through a window on its own</tspan></text>
   <text x="24" y="114" font-size="14"><tspan fill="#e3b341">5b91e03</tspan><tspan fill="#3fb950">        </tspan><tspan fill="#d2a8ff">feat: </tspan><tspan fill="#e6edf3">Altair-Observer, drone maps &amp; explores indoors without GPS</tspan></text>
   <text x="24" y="140" font-size="14"><tspan fill="#e3b341">0000001</tspan><tspan fill="#3fb950">        </tspan><tspan fill="#d2a8ff">init: </tspan><tspan fill="#e6edf3">B.Sc. Electrical &amp; Electronics Eng. @ KTU</tspan></text>

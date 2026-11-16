@@ -60,7 +60,6 @@ def about():
         [k("year", 8), seg("3", "num"), seg(",")],
         [k("focus", 7), seg("["), seg('"robotics"', "str"), seg(", "), seg('"embedded"', "str"), seg(", "),
          seg('"digital design"', "str"), seg(", "), seg('"automation"', "str"), seg("],")],
-        [k("buildingNow", 1), seg('"price-tracker-bot"', "str"), seg(",")],
         [k("drawnTo", 5), seg('"exploration & automation problems"', "str"), seg(",")],
         [seg("};")],
     ]
@@ -103,8 +102,8 @@ PROJECTS = [
      ["Autonomous indoor drone: lidar SLAM, frontier", "exploration and obstacle avoidance, no GPS"]),
     ("project-altair-silent.svg", "Altair-Silent", "VKWHM/", "ROS 2 · Nav2 · Python · team", False,
      ["Finds a window, flies through it and comes back,", "driven by behavior trees in GPS-denied spaces"]),
-    ("project-price-tracker-bot.svg", "price-tracker-bot", None, "Python · Telegram", True,
-     ["Watches product prices, pings you on Telegram", "when they drop"]),
+    ("project-price-tracker-bot.svg", "price-tracker-bot", None, "Python · Telegram · Shopify", False,
+     ["Tracks Shopify prices & stock, pings you on", "Telegram on drops, restocks and target prices"]),
 ]
 
 
@@ -128,7 +127,7 @@ def projects():
 
 # ---------- git log ----------
 LOG = [
-    ("a1f3c9e", True, "wip: ", "price-tracker-bot, Telegram price alerts"),
+    ("a1f3c9e", True, "feat:", "price-tracker-bot, Shopify price & stock alerts"),
     ("7d20b14", False, "feat:", "Altair-Silent, drone flies through a window on its own"),
     ("5b91e03", False, "feat:", "Altair-Observer, drone maps & explores indoors without GPS"),
     ("0000001", False, "init:", "B.Sc. Electrical & Electronics Eng. @ KTU"),

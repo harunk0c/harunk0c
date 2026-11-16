@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" alt="EEE student at Karadeniz Technical University, 3rd year. Focus: robotics, embedded, digital design, automation. Building now: price-tracker-bot." width="100%">
+  <img src="./assets/about.svg" alt="EEE student at Karadeniz Technical University, 3rd year. Focus: robotics, embedded, digital design, automation." width="100%">
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 <p align="center">
   <a href="https://github.com/VKWHM/Altair-Observer"><img src="./assets/project-altair-observer.svg" alt="Altair-Observer: autonomous indoor drone with lidar SLAM, frontier exploration and obstacle avoidance, no GPS (ROS 2, PX4, Python, team project)" width="100%"></a>
   <a href="https://github.com/VKWHM/Altair-Silent"><img src="./assets/project-altair-silent.svg" alt="Altair-Silent: drone finds a window, flies through it and comes back, using behavior trees in GPS-denied spaces (ROS 2, Nav2, Python, team project)" width="100%"></a>
-  <img src="./assets/project-price-tracker-bot.svg" alt="price-tracker-bot (work in progress): watches product prices and sends a Telegram message when they drop" width="100%">
+  <a href="https://github.com/harunk0c/price-tracker-bot"><img src="./assets/project-price-tracker-bot.svg" alt="price-tracker-bot: tracks Shopify product prices and stock, sends Telegram alerts on price drops, restocks and target prices (Python, Telegram)" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="./assets/gitlog.svg" alt="Timeline: B.Sc. Electrical & Electronics Engineering at KTU → Altair-Observer → Altair-Silent → price-tracker-bot (in progress)" width="100%">
+  <img src="./assets/gitlog.svg" alt="Timeline: B.Sc. Electrical & Electronics Engineering at KTU → Altair-Observer → Altair-Silent → price-tracker-bot" width="100%">
 </p>
 
 <p align="center">
