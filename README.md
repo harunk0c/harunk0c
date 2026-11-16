@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Stack: Python, Telegram API, web scraping, ROS 2, lidar SLAM, simulation, Arduino, ESP32, sensors, Verilog, CPU architecture" width="100%">
+  <img src="./assets/stack.svg" alt="Stack: Python, Verilog, Telegram bots, web scraping, REST APIs, ROS 2, Git, GitHub, SQLite" width="100%">
 </p>
 
 <p align="center">

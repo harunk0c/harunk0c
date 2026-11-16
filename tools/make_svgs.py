@@ -71,10 +71,10 @@ def about():
 
 # ---------- stack ----------
 STACK = [
-    ("automation", [("Python", "#3572a5"), ("Telegram API", "#26a5e4"), ("Web scraping", "#8b949e")]),
-    ("robotics", [("ROS 2", "#6b8dd6"), ("Lidar SLAM", "#a371f7"), ("Simulation", "#3fb950")]),
-    ("embedded", [("Arduino", "#00979d"), ("ESP32", "#e7352c"), ("Sensors", "#e3b341")]),
-    ("digital design", [("Verilog", "#b2b7f8"), ("CPU architecture", "#ffa657")]),
+    ("languages", [("Python", "#3572a5"), ("Verilog", "#b2b7f8")]),
+    ("automation", [("Telegram bots", "#26a5e4"), ("Web scraping", "#8b949e"), ("REST APIs", "#3fb950")]),
+    ("robotics", [("ROS 2", "#6b8dd6")]),
+    ("tools", [("Git", "#f05032"), ("GitHub", "#e6edf3"), ("SQLite", "#0f80cc")]),
 ]
 
 
