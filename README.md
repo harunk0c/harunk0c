@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Stack: Python, Verilog, Telegram bots, web scraping, REST APIs, ROS 2, Git, GitHub, SQLite" width="100%">
+  <img src="./assets/stack.svg" alt="Stack: Python, Rust, C, C++, Verilog, MATLAB; Telegram bots, web scraping, REST APIs; ROS 2, Gazebo, RViz; Linux, Git, GitHub, Docker, VS Code, SQLite" width="100%">
 </p>
 
 <p align="center">
