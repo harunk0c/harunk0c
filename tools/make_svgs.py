@@ -114,6 +114,8 @@ PROJECTS = [
      ["Finds a window, flies through it and comes back,", "driven by behavior trees in GPS-denied spaces"]),
     ("project-price-tracker-bot.svg", "price-tracker-bot", None, "Python · Telegram · Shopify", False,
      ["Tracks Shopify prices & stock, pings you on", "Telegram on drops, restocks and target prices"]),
+    ("project-doc-extractor.svg", "doc-extractor", None, "Python · FastAPI · LLM", False,
+     ["Reads PDF invoices into JSON with an LLM, then", "checks every value in code and flags what's off"]),
 ]
 
 
@@ -137,7 +139,8 @@ def projects():
 
 # ---------- git log ----------
 LOG = [
-    ("a1f3c9e", True, "feat:", "price-tracker-bot, Shopify price & stock alerts"),
+    ("c4e8d27", True, "feat:", "doc-extractor, PDF invoices to validated JSON with LLMs"),
+    ("a1f3c9e", False, "feat:", "price-tracker-bot, Shopify price & stock alerts"),
     ("7d20b14", False, "feat:", "Altair-Silent, drone flies through a window on its own"),
     ("5b91e03", False, "feat:", "Altair-Observer, drone maps & explores indoors without GPS"),
     ("0000001", False, "init:", "B.Sc. Electrical & Electronics Eng. @ KTU"),
